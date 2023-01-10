@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Myfriend 👋
 ### ![](https://github-readme-stats.vercel.app/api?username=mayandev)
 ### 🔭 I’m currently studing on USST
 ### 🌱 I’m currently learning Java,network
