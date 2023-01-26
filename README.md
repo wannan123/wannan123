@@ -1,6 +1,6 @@
 ### Hi Myfriend 👋
-### ![](https://github-readme-stats.vercel.app/api?username=wannan123)
-### 🔭 I’m currently studing on USST
+
+### 🔭 I’m currently studing on CS144
 ### 🌱 I’m currently learning Java,network
 ### 📫 How to reach me: 1397886153@qq.com
 ### ⚡ Fun fact: Java,C++,network,OS
