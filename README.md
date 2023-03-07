@@ -1,6 +1,6 @@
 ### Hi Myfriend 👋
 
-### 🔭 I’m currently studing on CS144
+### 🔭 I’m currently studing on CS61b and Leetcode
 ### 🌱 I’m currently learning Java,network
 ### 📫 How to reach me: 1397886153@qq.com
 ### ⚡ Fun fact: Java,C++,network,OS
