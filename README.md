@@ -1,9 +1,9 @@
 ### Hi Myfriend 👋
 
-### 🔭 I’m currently studing on CS61b and Leetcode
-### 🌱 I’m currently learning Java,network
+### 🔭 I’m currently studing on CMU15455 
+### 🌱 I’m currently learning C++ and Database
 ### 📫 How to reach me: 1397886153@qq.com
-### ⚡ Fun fact: Java,C++,network,OS
+### ⚡ Fun fact: Java,C++,network,OS,Database
 <!--
 **wannan123/wannan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
