@@ -1,6 +1,6 @@
 ### Hi Myfriend 👋
 
-### 🔭 I’m currently studing on CMU15455 
+### 🔭 I’m currently studing on High Performance Programming 
 ### 🌱 I’m currently learning Linux C++
 ### 📫 How to reach me: 1397886153@qq.com
 ### ⚡ Fun fact: C++,network,OS,Database,JAVA
